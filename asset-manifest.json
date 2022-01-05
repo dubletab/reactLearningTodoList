@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactLearningTodoList/static/css/main.fcd99164.css",
+    "main.js": "/reactLearningTodoList/static/js/main.4592bb5f.js",
+    "index.html": "/reactLearningTodoList/index.html",
+    "main.fcd99164.css.map": "/reactLearningTodoList/static/css/main.fcd99164.css.map",
+    "main.4592bb5f.js.map": "/reactLearningTodoList/static/js/main.4592bb5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd99164.css",
+    "static/js/main.4592bb5f.js"
+  ]
+}
